@@ -1,3 +1,6 @@
+src/Backup/
+src/TapSync.*.toe
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
